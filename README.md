@@ -1,12 +1,11 @@
 # Happy Little Pipeline
 
 <p align="center">
-  <!--
-    Drop a Bob Ross photo at docs/bob-ross.jpg (or any path/format you like),
-    then uncomment the next line and adjust the src attribute:
-  -->
-  <!-- <img src="docs/bob-ross.jpg" alt="Bob Ross" width="420"> -->
+  <img src="docs/bob-ross.webp" alt="Bob Ross painting a happy little mountain" width="640">
 </p>
+
+> *"We don't make mistakes, just happy little accidents."*
+> — Bob Ross
 
 > A disciplined, repeatable workflow for shipping non-trivial features with [Claude Code](https://docs.claude.com/en/docs/claude-code/overview). Named after Bob Ross — trust the process, happy little accidents are part of the work, and you end up with a finished painting instead of a panicked deliverable.
 >
